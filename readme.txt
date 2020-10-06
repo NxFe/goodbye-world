@@ -1,0 +1,1 @@
+"Godobye and Hello, world!"
